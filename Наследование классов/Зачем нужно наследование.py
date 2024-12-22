@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# map - surface
-#surface=9*[["e","e","e","e","w","e","e","e","e"]]
-#print(surface)
 # root-class type alive creatures
 class Alive_Creatures(object):
 	cause_of_death="Умерло своей смертью"
