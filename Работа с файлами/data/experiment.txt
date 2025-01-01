@@ -1,0 +1,4 @@
+Clothes:Pants size:XXL
+Vegetables:Potato size:2kg
+Vegetables:Tomato size:2kg
+Non-Alcogol-Drinks:Fanta size:0.5L
